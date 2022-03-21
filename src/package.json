@@ -1,0 +1,27 @@
+{
+  "name": "rs-diff",
+  "version": "1.0.0",
+  "description": "returns similarities and differences between two arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabeb-bb/RS-Array-Diff.git"
+  },
+  "keywords": [
+    "array",
+    "diff",
+    "added",
+    "deleted",
+    "similar",
+    "compare"
+  ],
+  "author": "rabeb- bb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabeb-bb/RS-Array-Diff/issues"
+  },
+  "homepage": "https://github.com/rabeb-bb/RS-Array-Diff#readme"
+}
